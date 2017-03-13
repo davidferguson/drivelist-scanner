@@ -1,6 +1,6 @@
 {
   "name": "drivelist-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dynamically detect when drives are being added and/or removed",
   "main": "build/drivelist-scanner.js",
   "homepage": "https://github.com/mkorakakis/drivelist-scanner",
@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "bluebird": "^3.0.0",
-    "drivelist": "^5.0.9",
+    "drivelist": "^5.0.16",
     "lodash": "^3.10.1"
   }
 }
